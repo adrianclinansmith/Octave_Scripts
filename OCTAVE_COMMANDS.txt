@@ -1,0 +1,14 @@
+Octave Commands
+===============
+
+formatting
+----------
+
+format long
+
+
+syms package
+------------
+
+pkg load symbolic	
+warning('off', 'OctSymPy:sym:rationalapprox')
